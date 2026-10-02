@@ -1,0 +1,32 @@
+//associative Array
+
+
+$student=[ "name" => "Raman","age"=>"18","city"=>"Dhaka"
+
+
+];
+
+
+
+echo $student["name"];
+
+// $student = [
+//     "name" => "Raman",
+//     "age"  => "18",
+//     "city" => "Dhaka"
+// ];
+
+// echo $student["name"];
+
+
+$student=[ "name" => "Raman","age"=>"18","city"=>"Dhaka"
+
+
+];
+
+foreach($student as $mak){
+
+
+echo "$mak"."<br>";
+}
+

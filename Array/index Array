@@ -1,0 +1,14 @@
+// $birds =["lobbrid", "cocatel","fring","java","ghughu", ];
+
+
+// foreach($birds as $bird){
+    
+// echo "$bird" ."<br> <br>";}
+
+
+// $man = ["sahabuddin", "our" , "mantor", "tcher" ,"vaia"  ];
+
+// foreach ($man as $but){
+
+// echo "$but" ."<br>";
+// }
